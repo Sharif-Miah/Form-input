@@ -1,5 +1,18 @@
 .App {
-  text-align: center;
+  /* text-align: center; */
+  width: 600px;
+  margin: auto;
+}
+
+.Btn{
+  padding: 5px 10px;
+  background-color: blue;
+  color: #fff;
+}
+.Submit{
+  margin: 5px;
+  text-align: start;
+
 }
 
 .App-logo {
